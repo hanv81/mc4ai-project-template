@@ -8,16 +8,7 @@ Lê Nguyễn Thanh Huy|COTAI|huy.cotai@gmail.com
 ## Đề tài: Phân tích điểm thi lớp Python4AI 092022
 ## Các thư viện sử dụng: `numpy, matplotlib, scikit-learn, plotly`
 
-## Các chức năng chính
-1. Danh sách học sinh
-2. Data Analysis
-  - Phân tích số lượng học sinh
-  - Phân tích điểm thi
-3. Clustering
-4. Regression
-5. Classify
-
-## Kế hoạch thực hiện
+## Các chức năng chính & kế hoạch thực hiện
 
 Chức năng|Người thực hiện|Ngày hoàn thành dự kiến
 -|-|-
