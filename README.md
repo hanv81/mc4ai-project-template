@@ -3,6 +3,7 @@ Họ Tên|Lớp|Email
 -|-|-
 Nguyễn Việt Hà|COTAI|hanv.cotai@gmail.com
 Lê Nguyễn Thanh Huy|COTAI|huy.cotai@gmail.com
+Ngô Quốc Hưng|COTAI|hung@gmail.com
 
 # Thông tin project
 ## Đề tài: Phân tích điểm thi lớp Python4AI 092022
